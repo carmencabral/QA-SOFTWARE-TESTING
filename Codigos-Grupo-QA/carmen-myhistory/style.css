@@ -1,0 +1,11 @@
+h1{
+    color: midnightblue;
+}
+
+p, li{
+    font-size: larger;
+}
+
+footer{
+    background-color: lightgray;
+}
