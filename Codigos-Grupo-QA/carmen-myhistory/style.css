@@ -2,8 +2,8 @@ h1{
     color: midnightblue;
 }
 
-p, li{
-    font-size: larger;
+p, li, h1{
+    font-size: 20px;
 }
 
 footer{
